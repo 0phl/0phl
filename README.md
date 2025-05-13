@@ -38,10 +38,10 @@ I'm currently studying and focusing on developing my skills in full-stack web de
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" />
+<div align="center" style="display: flex; justify-content: space-between;">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="32%" src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" />
 </div>
 
 </div>
