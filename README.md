@@ -2,9 +2,9 @@
 
 > Full Stack Developer | Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)]([https://linkedin.com/in/Ronan%20Dela%20Cruz](https://www.linkedin.com/in/ronan-dela-cruz-9661bb335/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ronan-dela-cruz-9661bb335/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:roncruz1503@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/0phl)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/YourFacebookUsername)
 
 ## 💫 About Me
 
@@ -38,16 +38,29 @@ I'm currently studying and focusing on developing my skills in full-stack web de
 
 ## 📊 GitHub Stats
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0phl&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0phl&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" />
 </div>
 
+---
 
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=0phl&icon=0&color=6" alt="Visitor Count" />
+</div>
