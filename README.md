@@ -37,18 +37,11 @@ I'm currently studying and focusing on developing my skills in full-stack web de
 </div>
 
 ## 📊 GitHub Stats
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" />
+</div>
 
 </div>
