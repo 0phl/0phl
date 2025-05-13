@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ronan-dela-cruz-9661bb335/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:roncruz1503@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)]([https://facebook.com/YourFacebookUsername](https://www.facebook.com/0phl1))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/0phl1)
 
 ## 💫 About Me
 
@@ -38,18 +38,11 @@ I'm currently studying and focusing on developing my skills in full-stack web de
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
