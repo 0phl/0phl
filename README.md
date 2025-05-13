@@ -37,11 +37,10 @@ I'm currently studying and focusing on developing my skills in full-stack web de
 </div>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img width="32%" height="240px" src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="32%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img width="32%" height="240px" src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img width="30%" src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 </div>
