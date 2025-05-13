@@ -58,9 +58,3 @@ I'm currently studying and focusing on developing my skills in full-stack web de
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0phl&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=0phl&icon=0&color=6" alt="Visitor Count" />
-</div>
