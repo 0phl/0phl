@@ -39,9 +39,9 @@ I'm currently studying and focusing on developing my skills in full-stack web de
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=450" alt="GitHub Stats" />
-  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=450" alt="Top Languages" />
-  <img width="350px" src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=450" alt="GitHub Stats" />
+  <img width="400px" src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=450" alt="Top Languages" />
 </div>
 
 </div>
