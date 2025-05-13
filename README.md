@@ -53,8 +53,3 @@ I'm currently studying and focusing on developing my skills in full-stack web de
   <img src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0phl&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" />
-</div>
