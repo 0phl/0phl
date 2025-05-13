@@ -50,14 +50,4 @@ I'm currently studying and focusing on developing my skills in full-stack web de
   <img src="https://github-profile-trophy.vercel.app/?username=0phl&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="GitHub Trophies" />
 </div>
 
-### 🔝 Top Contributed Repositories
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=0phl&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=0phl&icon=0&color=6" alt="Visitor Count" />
-</div>
