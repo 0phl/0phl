@@ -41,7 +41,7 @@ I'm currently studying and focusing on developing my skills in full-stack web de
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=450" alt="GitHub Stats" />
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=450" alt="Top Languages" />
-  <img width="400px" src="https://github-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak" />
+  <img width="400px" src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true%22%20alt=%22GitHub%20Streak%22" />
 </div>
 
 </div>
