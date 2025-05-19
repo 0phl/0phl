@@ -1,6 +1,6 @@
 # Ronan Dela Cruz
 
-> Full Stack Developer | Student
+> Aspiring Full Stack Developer | Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ronan-dela-cruz-9661bb335/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:roncruz1503@gmail.com)
