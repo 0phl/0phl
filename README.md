@@ -1,17 +1,15 @@
 # Ronan Dela Cruz
-
 > Aspiring Full Stack Developer | Student
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white&style=for-the-badge)](https://ronandelacruz.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ronan-dela-cruz-9661bb335/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:roncruz1503@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/0phl1)
 
 ## 💫 About Me
-
 I'm currently studying and focusing on developing my skills in full-stack web development. Passionate about creating clean, efficient, and user-friendly applications using modern technologies.
 
 ## 💻 Tech Stack
-
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,13 +37,10 @@ I'm currently studying and focusing on developing my skills in full-stack web de
 </div>
 
 ## 📊 GitHub Stats
-
 <div align="center">
   
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=450" alt="GitHub Stats" />
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=450" alt="Top Languages" />
   <img width="400px" src="https://nirzak-streak-stats.vercel.app/?user=0phl&theme=tokyonight&hide_border=true" />
   
-</div>
-
 </div>
