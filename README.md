@@ -1,7 +1,7 @@
 # Ronan Dela Cruz
 > Aspiring Full Stack Developer | Student
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ronandelacruz.me-111111?logo=globe&logoColor=white&style=for-the-badge)](https://ronandelacruz.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ronandelacruz-111111?logo=globe&logoColor=white&style=for-the-badge)](https://ronandelacruz.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ronan-dela-cruz-9661bb335/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:roncruz1503@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/0phl1)
