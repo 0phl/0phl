@@ -22,7 +22,6 @@ I'm a passionate full-stack developer currently pursuing my studies in Informati
 -  Looking to collaborate on **innovative projects**
 -  Ask me about **React, Next.js, TypeScript, or anything web development**
 -  Based in **Philippines**
--  Fun fact: I believe great code is like poetry - it should be beautiful and meaningful
 
 ---
 
@@ -133,7 +132,7 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 <div align="center">
   
-  ** From [0phl](https://github.com/0phl) | Made with ❤️ and lots of ☕**
+ | From [0phl](https://github.com/0phl) | Made with ❤️ and lots of ☕ |
   
   ![Profile Views](https://komarev.com/ghpvc/?username=0phl&label=Profile%20views&color=0e75b6&style=flat)
   
