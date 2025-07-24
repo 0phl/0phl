@@ -1,6 +1,6 @@
 # Hi there, I'm Ronan Dela Cruz 👋
 
-> 🚀 **Full Stack Developer** | 🎓 **Computer Science Student** | 💡 **Problem Solver**
+> 🚀 **Full Stack Developer** | 🎓 **IT Student** | 💡 **Problem Solver**
 
 <div align="center">
 
@@ -15,18 +15,18 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer currently pursuing my studies in Computer Science. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or learning about the latest trends in web development.
+I'm a passionate full-stack developer currently pursuing my studies in Information Technology. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, or learning about the latest trends in web development.
 
-- 🔭 Currently working on **full-stack web applications**
-- 🌱 Learning **advanced React patterns** and **cloud technologies**
-- 👯 Looking to collaborate on **innovative projects**
-- 💬 Ask me about **React, Next.js, TypeScript, or anything web development**
-- 📍 Based in **Philippines**
-- ⚡ Fun fact: I believe great code is like poetry - it should be beautiful and meaningful
+-  Currently working on **full-stack web applications**
+-  Learning **advanced React patterns** and **cloud technologies**
+-  Looking to collaborate on **innovative projects**
+-  Ask me about **React, Next.js, TypeScript, or anything web development**
+-  Based in **Philippines**
+-  Fun fact: I believe great code is like poetry - it should be beautiful and meaningful
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ### Frontend Development
 <div align="left">
@@ -39,6 +39,7 @@ I'm a passionate full-stack developer currently pursuing my studies in Computer 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 </div>
 
@@ -72,8 +73,9 @@ I'm a passionate full-stack developer currently pursuing my studies in Computer 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 </div>
 
@@ -131,7 +133,7 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 <div align="center">
   
-  **⭐ From [0phl](https://github.com/0phl) | Made with ❤️ and lots of ☕**
+  ** From [0phl](https://github.com/0phl) | Made with ❤️ and lots of ☕**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=0phl&label=Profile%20views&color=0e75b6&style=flat)
   
