@@ -1,6 +1,6 @@
 # Hi there, I'm Ronan Dela Cruz 👋
 
-> 🚀 **Full Stack Developer** | 🎓 **IT Student** | 💡 **Problem Solver**
+>  **Full Stack Developer** |  **IT Student** |  **Problem Solver**
 
 <div align="center">
 
