@@ -1,6 +1,6 @@
 # Hi there, I'm Ronan Dela Cruz 👋
 
-> 🚀 **Full Stack Developer** | 🎓 **IT Student** |
+> 🚀 **Full Stack Developer** | 🎓 **Computer Science Student** | 💡 **Problem Solver**
 
 <div align="center">
 
@@ -13,19 +13,20 @@
 
 ---
 
-##  About Me
+## 🚀 About Me
 
-I'm a passionate full-stack developer currently pursuing my studies in Information Techbology. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, or learning about the latest trends in web development.
+I'm a passionate full-stack developer currently pursuing my studies in Computer Science. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or learning about the latest trends in web development.
 
--  Currently working on **full-stack web applications**
--  Learning **advanced React patterns** and **cloud technologies**
--  Looking to collaborate on **innovative projects**
--  Ask me about **React, Next.js, TypeScript, or anything web development**
--  Based in **Philippines**
+- 🔭 Currently working on **full-stack web applications**
+- 🌱 Learning **advanced React patterns** and **cloud technologies**
+- 👯 Looking to collaborate on **innovative projects**
+- 💬 Ask me about **React, Next.js, TypeScript, or anything web development**
+- 📍 Based in **Philippines**
+- ⚡ Fun fact: I believe great code is like poetry - it should be beautiful and meaningful
 
 ---
 
-##  Technologies & Tools
+## 🛠️ Technologies & Tools
 
 ### Frontend Development
 <div align="left">
@@ -45,6 +46,7 @@ I'm a passionate full-stack developer currently pursuing my studies in Informati
 <div align="left">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
