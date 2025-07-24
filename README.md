@@ -132,7 +132,7 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 <div align="center">
   
- | From [0phl](https://github.com/0phl) | Made with ❤️ and lots of ☕ |
+  From [0phl](https://github.com/0phl) | Made with ❤️ and lots of ☕ 
   
   ![Profile Views](https://komarev.com/ghpvc/?username=0phl&label=Profile%20views&color=0e75b6&style=flat)
   
