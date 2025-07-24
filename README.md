@@ -1,6 +1,6 @@
 # Hi there, I'm Ronan Dela Cruz 👋
 
-> 🚀 **Full Stack Developer** | 🎓 **IT Student** | 💡 **Problem Solver**
+> 🚀 **Full Stack Developer** | 🎓 **IT Student** |
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ##  About Me
 
-I'm a passionate full-stack developer currently pursuing my studies in Computer Science. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, or learning about the latest trends in web development.
+I'm a passionate full-stack developer currently pursuing my studies in Information Techbology. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, or learning about the latest trends in web development.
 
 -  Currently working on **full-stack web applications**
 -  Learning **advanced React patterns** and **cloud technologies**
