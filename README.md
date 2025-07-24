@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate full-stack developer currently pursuing my studies in Information Technology. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, or learning about the latest trends in web development.
 
