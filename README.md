@@ -78,7 +78,7 @@ I'm a passionate full-stack developer currently pursuing my studies in Informati
 
 </div>
 
-### AI & Machine Learning
+### AI
 <div align="left">
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
