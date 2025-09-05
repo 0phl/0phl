@@ -20,7 +20,7 @@ I'm a passionate full-stack developer currently pursuing my studies in Informati
 -  Currently working on **full-stack web applications**
 -  Learning **advanced React patterns** and **cloud technologies**
 -  Looking to collaborate on **innovative projects**
--  Ask me about **React, Next.js, TypeScript, or anything web development**
+-  Ask me about **React, TypeScript, or anything web development**
 -  Based in **Philippines**
 
 ---
