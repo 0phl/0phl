@@ -1,6 +1,6 @@
 # Hi there, I'm Ronan Dela Cruz 👋
 
->  **Full Stack Developer** |  **IT Student** |  **Problem Solver**
+>  **Full Stack Developer** |  **IT Student** |  **Problem Solver**
 
 <div align="center">
 
@@ -13,19 +13,19 @@
 
 ---
 
-##  About Me
+##  About Me
 
 I'm a passionate full-stack developer currently pursuing my studies in Information Technology. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies, or learning about the latest trends in web development.
 
--  Currently working on **full-stack web applications**
--  Learning **advanced React patterns** and **cloud technologies**
--  Looking to collaborate on **innovative projects**
--  Ask me about **React, TypeScript, or anything web development**
--  Based in **Philippines**
+-  Currently working on **full-stack web applications**
+-  Learning **advanced React patterns** and **cloud technologies**
+-  Looking to collaborate on **innovative projects**
+-  Ask me about **React, TypeScript, or anything web development**
+-  Based in **Philippines**
 
 ---
 
-##  Technologies & Tools
+##  Technologies & Tools
 
 ### Frontend Development
 <div align="left">
@@ -48,6 +48,7 @@ I'm a passionate full-stack developer currently pursuing my studies in Informati
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 </div>
 
@@ -75,6 +76,7 @@ I'm a passionate full-stack developer currently pursuing my studies in Informati
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=orange)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 </div>
 
@@ -92,16 +94,16 @@ I'm a passionate full-stack developer currently pursuing my studies in Informati
 ## 📈 GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
-  
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0phl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+  
 </div>
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0phl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0phl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
 </div>
 
 ---
@@ -109,9 +111,9 @@ I'm a passionate full-stack developer currently pursuing my studies in Informati
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=0phl&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=0phl&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  
 </div>
 
 ---
@@ -131,9 +133,9 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 ---
 
 <div align="center">
-  
-  From [0phl](https://github.com/0phl) | Made with ❤️ and lots of ☕ 
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=0phl&label=Profile%20views&color=0e75b6&style=flat)
-  
+  
+  From [0phl](https://github.com/0phl) | Made with ❤️ and lots of ☕ 
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=0phl&label=Profile%20views&color=0e75b6&style=flat)
+  
 </div>
